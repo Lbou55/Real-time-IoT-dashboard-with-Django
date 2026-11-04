@@ -7,13 +7,6 @@ import firebase_admin
 from firebase_admin import credentials
 
 firebaseConfig = {
-    "apiKey": "AIzaSyAPLJhvboYKKryLbMEa0eTEciuoyY62Etc",
-    "authDomain": "gestion-grandeurs-2026-fdaf7.firebaseapp.com",
-    "databaseURL": "https://gestion-grandeurs-2026-fdaf7-default-rtdb.firebaseio.com",
-    "projectId": "gestion-grandeurs-2026-fdaf7",
-    "storageBucket": "gestion-grandeurs-2026-fdaf7.firebasestorage.app",
-    "messagingSenderId": "430470525695",
-    "appId": "1:430470525695:web:d5cceab634bcf7e4f352ca"
 }
 
 firebase = pyrebase.initialize_app(firebaseConfig)
