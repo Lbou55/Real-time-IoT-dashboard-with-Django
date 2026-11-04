@@ -2,6 +2,14 @@
 
 A complete Internet of Things (IoT) pipeline that simulates a temperature sensor, processes the data through an MQTT broker, saves it to a local SQLite database and Firebase, and displays it live on a Django WebSocket dashboard.
 
+<img width="956" height="829" alt="image" src="https://github.com/user-attachments/assets/27a3e12d-545d-4673-bc11-20440bfaa137" />
+<img width="1467" height="854" alt="image" src="https://github.com/user-attachments/assets/287e40cc-e212-4552-bea7-0ad1c2976f9a" />
+<img width="1305" height="299" alt="image" src="https://github.com/user-attachments/assets/05a4fed0-f101-4ddc-a649-2ada44ef78c1" />
+<img width="1072" height="527" alt="image" src="https://github.com/user-attachments/assets/c5d4015c-5f4b-4565-8def-5cdbe300d75a" />
+
+
+
+
 ## 1. System Architecture
 
 This project is divided into two main components:
